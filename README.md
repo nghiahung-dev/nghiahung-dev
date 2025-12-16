@@ -9,7 +9,7 @@ Currently, I am working at Employment Hero as Frontend Engineer.
 
 ✋ I love to chat about DX, open source, frontend development, React, devtools, Testing, running and more. Following are some of useful links you can find me there:
 
-- [X](https://x.com/nnhungjs)
+- [X](https://x.com/nghiahung_dev)
 - [Linked In](https://www.linkedin.com/in/nghiahung-dev/)
 - [Bluesky](https://bsky.app/profile/nghiahung.dev)
 
